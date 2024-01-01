@@ -1,8 +1,7 @@
 <!----------------------------------- Heading Section ------------------------------------>
 <p align="center">
 
-  ![GitHub Cover](https://private-user-images.githubusercontent.com/154831245/293605274-4c5b5460-80d9-466d-b3af-ace540aec40b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQxMzk5MDIsIm5iZiI6MTcwNDEzOTYwMiwicGF0aCI6Ii8xNTQ4MzEyNDUvMjkzNjA1Mjc0LTRjNWI1NDYwLTgwZDktNDY2ZC1iM2FmLWFjZTU0MGFlYzQwYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTAxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDEwMVQyMDA2NDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yNzJhOWQ3NDQyZDVjZjYzMDAxOWNiNGQzYmJkYzg5ZDI0YzU0YmM2NzMzNjIyZjM3MWJjYmE1NThlNDVhMjlkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.YyE1zl9zfvsrfUqNsltMZ8YAYYL8ijnTz3CVgZPHEw4)
-
+  ![GitHub Cover](https://github-production-user-asset-6210df.s3.amazonaws.com/154831245/293605960-65869349-e0b5-4a70-bf64-bfb313596928.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240101%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240101T202616Z&X-Amz-Expires=300&X-Amz-Signature=6a166e7c1e3374bae7fb8d8289d036fc11c8d3bb43b38b5b9a39bf732165aac7&X-Amz-SignedHeaders=host&actor_id=154831245&key_id=0&repo_id=737878230)
 </p>
 <h1 align="center">Hi 👋, I'm Rachit Manish Chheda</h1>
 <h3 align="center">A passionate developer from India <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" height="44px"></h3>
