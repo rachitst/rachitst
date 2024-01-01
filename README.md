@@ -81,6 +81,6 @@
 <br />
 
   ### <h1><p align ="center"> Have a great day <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" height="25px">
-
+<!--
 <h3 align="center">Support:</h3>
-<p align ="center"> <a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/rachitchheda_16"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/rachitchheda_16" /></a></p><br><br>
+<p align ="center"> <a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/rachitchheda_16"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/rachitchheda_16" /></a></p><br><br>-->
