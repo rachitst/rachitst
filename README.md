@@ -1,7 +1,7 @@
 <!----------------------------------- Heading Section ------------------------------------>
 <p align="center">
 
-  ![GitHub Cover](https://github-production-user-asset-6210df.s3.amazonaws.com/154831245/293605960-65869349-e0b5-4a70-bf64-bfb313596928.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240101%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240101T202616Z&X-Amz-Expires=300&X-Amz-Signature=6a166e7c1e3374bae7fb8d8289d036fc11c8d3bb43b38b5b9a39bf732165aac7&X-Amz-SignedHeaders=host&actor_id=154831245&key_id=0&repo_id=737878230)
+  ![GitHub Cover](https://github.com/rachitst/rachitst/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png?raw=true)
 </p>
 <h1 align="center">Hi 👋, I'm Rachit Manish Chheda</h1>
 <h3 align="center">A passionate developer from India <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" height="44px"></h3>
