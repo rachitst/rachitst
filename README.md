@@ -65,17 +65,17 @@
 
 <br>
  <p align="center" >
- <a href="#"><img alt="Rachit Chheda's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachitst&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=false&bg_color=0D1117" /></a></p>
+ <a href="#"><img alt="Rachit Chheda's Top Languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=rachitst&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></a></p>
 
 ## 📊 My Github Stats <img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" height="45px">
 
   
   <p align="center" >
-  <a href="#"><img  alt="Rachit Chheda's streak"  src="https://github-readme-streak-stats.herokuapp.com/?user=rachitst&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" /></p>
+  <a href="#"><img  alt="Rachit Chheda's streak"  src="https://streak-stats.demolab.com/?user=rachitst&theme=react&hide_border=false" /></p>
     
 <p align="center" >
   <a href="#">
-  <a href="https://github.com/rachitst/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rachitst&theme=react&langs_count=5&layout=compact" alt="Rachit Chheda's github stats" align = "center" /></a></p>
+  <a href="https://github.com/rachitst/github-readme-stats"><img align="center" src="[https://github-readme-stats.vercel.app/api?username=rachitst&theme=react&langs_count=5&layout=compact](https://github-readme-stats.shion.dev/api?username=rachitst&theme=react&hide_border=false&include_all_commits=true&count_private=true)" alt="Rachit Chheda's github stats" align = "center" /></a></p>
 
 
 <br />
